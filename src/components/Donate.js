@@ -23,7 +23,7 @@ const Donate = () => {
           <p>Secured by Razorpay</p>
         </button>
       </div> :
-      <div className="col-lg-12 col-md-12">
+      <div className="col-lg-12 col-md-12 mb-5">
         <button className="btn btn-light" onClick={openWindow}>
           <h4 style={{fontWeight:'bold'}}>Cancel</h4>
         </button>

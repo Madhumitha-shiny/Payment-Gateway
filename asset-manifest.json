@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Payment-Gateway/static/css/main.c928c79f.css",
-    "main.js": "/Payment-Gateway/static/js/main.a2c10050.js",
+    "main.js": "/Payment-Gateway/static/js/main.6c13e55a.js",
     "static/js/787.a0a63c57.chunk.js": "/Payment-Gateway/static/js/787.a0a63c57.chunk.js",
     "static/media/bg.jpg": "/Payment-Gateway/static/media/bg.3dca24c0bc663be8832f.jpg",
     "static/media/member1.jpg": "/Payment-Gateway/static/media/member1.2a0d916f32d39a5ce5e6.jpg",
@@ -19,11 +19,11 @@
     "static/media/partner2.png": "/Payment-Gateway/static/media/partner2.6a5c04b0f87317b8d0ec.png",
     "index.html": "/Payment-Gateway/index.html",
     "main.c928c79f.css.map": "/Payment-Gateway/static/css/main.c928c79f.css.map",
-    "main.a2c10050.js.map": "/Payment-Gateway/static/js/main.a2c10050.js.map",
+    "main.6c13e55a.js.map": "/Payment-Gateway/static/js/main.6c13e55a.js.map",
     "787.a0a63c57.chunk.js.map": "/Payment-Gateway/static/js/787.a0a63c57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c928c79f.css",
-    "static/js/main.a2c10050.js"
+    "static/js/main.6c13e55a.js"
   ]
 }

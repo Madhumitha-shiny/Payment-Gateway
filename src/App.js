@@ -15,7 +15,7 @@ export default function App() {
       <Header />
       <Routes>
         <Route>
-          <Route path="/Payment-Gateway" exact element={<Home />} />
+          <Route path="/" exact element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/donate" element={<Donate />} />

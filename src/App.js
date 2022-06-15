@@ -19,6 +19,7 @@ export default function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/donate" element={<Donate />} />
+          <Route path="*"  element={<Home /> } />
         </Route>
       </Routes>
       <Footer />

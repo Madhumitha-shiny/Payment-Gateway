@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.514ca67b.css",
-    "main.js": "/static/js/main.db7bb1c5.js",
-    "static/js/787.a0a63c57.chunk.js": "/static/js/787.a0a63c57.chunk.js",
-    "static/media/bg.jpg": "/static/media/bg.3dca24c0bc663be8832f.jpg",
-    "static/media/member1.jpg": "/static/media/member1.2a0d916f32d39a5ce5e6.jpg",
-    "static/media/member2.jpg": "/static/media/member2.f46ca02c43a602731609.jpg",
-    "static/media/advisor2.jpg": "/static/media/advisor2.ace27133cbdfe5326698.jpg",
-    "static/media/advisor1.jpg": "/static/media/advisor1.895ccae5101b2a62738d.jpg",
-    "static/media/charity.png": "/static/media/charity.4fb30692f74d839f0167.png",
-    "static/media/advisor5.jpg": "/static/media/advisor5.5ef5c1c36c143dce097d.jpg",
-    "static/media/bg2.jpg": "/static/media/bg2.a4a0e3319dac54cb9a37.jpg",
-    "static/media/logo.png": "/static/media/logo.10e3eab9f57b0725596b.png",
-    "static/media/advisor7.jpg": "/static/media/advisor7.c7f13e9735e695badf35.jpg",
-    "static/media/partner1.png": "/static/media/partner1.de9d4be8eb7f7a0b6a43.png",
-    "static/media/advisor6.jpg": "/static/media/advisor6.a5444332175e5791760a.jpg",
-    "static/media/advisor8.jpg": "/static/media/advisor8.23f9e841d8c731c0a344.jpg",
-    "static/media/partner2.png": "/static/media/partner2.6a5c04b0f87317b8d0ec.png",
-    "index.html": "/index.html",
-    "main.514ca67b.css.map": "/static/css/main.514ca67b.css.map",
-    "main.db7bb1c5.js.map": "/static/js/main.db7bb1c5.js.map",
-    "787.a0a63c57.chunk.js.map": "/static/js/787.a0a63c57.chunk.js.map"
+    "main.css": "/Payment-Gateway/static/css/main.c928c79f.css",
+    "main.js": "/Payment-Gateway/static/js/main.6f2f70b2.js",
+    "static/js/787.a0a63c57.chunk.js": "/Payment-Gateway/static/js/787.a0a63c57.chunk.js",
+    "static/media/bg.jpg": "/Payment-Gateway/static/media/bg.3dca24c0bc663be8832f.jpg",
+    "static/media/member1.jpg": "/Payment-Gateway/static/media/member1.2a0d916f32d39a5ce5e6.jpg",
+    "static/media/member2.jpg": "/Payment-Gateway/static/media/member2.f46ca02c43a602731609.jpg",
+    "static/media/advisor2.jpg": "/Payment-Gateway/static/media/advisor2.ace27133cbdfe5326698.jpg",
+    "static/media/advisor1.jpg": "/Payment-Gateway/static/media/advisor1.895ccae5101b2a62738d.jpg",
+    "static/media/charity.png": "/Payment-Gateway/static/media/charity.4fb30692f74d839f0167.png",
+    "static/media/advisor5.jpg": "/Payment-Gateway/static/media/advisor5.5ef5c1c36c143dce097d.jpg",
+    "static/media/bg2.jpg": "/Payment-Gateway/static/media/bg2.a4a0e3319dac54cb9a37.jpg",
+    "static/media/logo.png": "/Payment-Gateway/static/media/logo.10e3eab9f57b0725596b.png",
+    "static/media/advisor7.jpg": "/Payment-Gateway/static/media/advisor7.c7f13e9735e695badf35.jpg",
+    "static/media/partner1.png": "/Payment-Gateway/static/media/partner1.de9d4be8eb7f7a0b6a43.png",
+    "static/media/advisor6.jpg": "/Payment-Gateway/static/media/advisor6.a5444332175e5791760a.jpg",
+    "static/media/advisor8.jpg": "/Payment-Gateway/static/media/advisor8.23f9e841d8c731c0a344.jpg",
+    "static/media/partner2.png": "/Payment-Gateway/static/media/partner2.6a5c04b0f87317b8d0ec.png",
+    "index.html": "/Payment-Gateway/index.html",
+    "main.c928c79f.css.map": "/Payment-Gateway/static/css/main.c928c79f.css.map",
+    "main.6f2f70b2.js.map": "/Payment-Gateway/static/js/main.6f2f70b2.js.map",
+    "787.a0a63c57.chunk.js.map": "/Payment-Gateway/static/js/787.a0a63c57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.514ca67b.css",
-    "static/js/main.db7bb1c5.js"
+    "static/css/main.c928c79f.css",
+    "static/js/main.6f2f70b2.js"
   ]
 }
